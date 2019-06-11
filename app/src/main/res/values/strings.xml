@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentRehash</string>
+    <string name="contact_title">Contact</string>
+    <string name="contact_hint">Enter Name</string>
+    <string name="email_title">Email</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="address_title">Address</string>
+    <string name="address_hint">Enter Address</string>
+</resources>
